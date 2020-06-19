@@ -1,0 +1,9 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\bin\Debug\StringAddRemoveReplace.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\bin\Debug\StringAddRemoveReplace.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\bin\Debug\StringAddRemoveReplace.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\bin\Debug\StringAddRemoveReplace.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\obj\Debug\StringAddRemoveReplace.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\obj\Debug\StringAddRemoveReplace.vbproj.GenerateResource.Cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\obj\Debug\StringAddRemoveReplace.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\obj\Debug\StringAddRemoveReplace.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringAddRemoveReplace\StringAddRemoveReplace\obj\Debug\StringAddRemoveReplace.pdb

@@ -1,0 +1,11 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\bin\Debug\Are2StringsTheSame.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\bin\Debug\Are2StringsTheSame.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\bin\Debug\Are2StringsTheSame.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\bin\Debug\Are2StringsTheSame.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.vbprojAssemblyReference.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.vbproj.GenerateResource.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.vbproj.CoreCompileInputs.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\Are2StringsTheSame\Are2StringsTheSame\obj\Debug\Are2StringsTheSame.pdb

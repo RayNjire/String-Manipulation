@@ -1,0 +1,11 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\bin\Debug\StringFormatting.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.vbproj.GenerateResource.Cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.vbprojAssemblyReference.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringFormatting\StringFormatting\obj\Debug\StringFormatting.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\bin\Debug\StringUpperandLower.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\bin\Debug\StringUpperandLower.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\bin\Debug\StringUpperandLower.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\bin\Debug\StringUpperandLower.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\obj\Debug\StringUpperandLower.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\obj\Debug\StringUpperandLower.vbproj.GenerateResource.Cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\obj\Debug\StringUpperandLower.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\obj\Debug\StringUpperandLower.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringUpperandLower\StringUpperandLower\obj\Debug\StringUpperandLower.pdb

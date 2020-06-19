@@ -1,0 +1,22 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\bin\Debug\StringTrim.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\bin\Debug\StringTrim.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\bin\Debug\StringTrim.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\bin\Debug\StringTrim.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.Form1.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.vbproj.GenerateResource.Cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringTrim\StringTrim\obj\Debug\StringTrim.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\bin\Debug\StringTrim.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\bin\Debug\StringTrim.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\bin\Debug\StringTrim.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\bin\Debug\StringTrim.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.vbprojAssemblyReference.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.Form1.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.vbproj.GenerateResource.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.vbproj.CoreCompileInputs.cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\Ch8. String Manipulation\StringTrim\StringTrim\obj\Debug\StringTrim.pdb

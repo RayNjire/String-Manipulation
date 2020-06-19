@@ -1,0 +1,9 @@
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\bin\Debug\StringJoining.exe.config
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\bin\Debug\StringJoining.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\bin\Debug\StringJoining.pdb
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\bin\Debug\StringJoining.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\obj\Debug\StringJoining.Resources.resources
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\obj\Debug\StringJoining.vbproj.GenerateResource.Cache
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\obj\Debug\StringJoining.exe
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\obj\Debug\StringJoining.xml
+C:\Users\ray njire\Desktop\Folders\Microsoft Notes\My Work\Visual Basics\StringJoining\StringJoining\obj\Debug\StringJoining.pdb
